@@ -1,5 +1,4 @@
 fun main() {
-    val name = "Kotlin"
-
-    println("Hello, " + name + "!")
+    var meinNameIst = "Nico Kohler"
+    println("Hello, " + meinNameIst + "!")
 }
